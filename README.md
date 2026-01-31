@@ -1,0 +1,2 @@
+# proyecto_inscripcion
+SISTEMA DE INSCRIPCIÓN PROFESIONAL (PYTHON + GIT + EJECUTABLE.exe)
