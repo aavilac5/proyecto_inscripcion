@@ -1,4 +1,4 @@
-Python
+
 # TEMA 13: FUNCIONES
 import os
 
